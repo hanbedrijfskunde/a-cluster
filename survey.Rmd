@@ -1,0 +1,112 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+### Libraries laden
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+library(gsheet)
+library(tidyverse)
+library(udpipe)
+library(wordcloud2)
+library(tidytext)
+library(tm)
+library(quanteda)
+library(topicmodels)
+library(stopwords)
+library(plotly)
+```
+
+### Data inlezen
+
+```{r}
+url <- "https://docs.google.com/spreadsheets/d/1Ps_aDZdcU2HOc6qwzXKtdS0jcpXCgLESVeiC6JN_VEk/edit?usp=sharing"
+rawDF <- gsheet2tbl(url)
+head(rawDF)
+str(rawDF)
+```
+### Tekst annoteren
+```{r}
+udmodel <- udpipe_download_model(language = "dutch", overwrite = FALSE)
+udmodel_dutch <- udpipe_load_model(file = udmodel$file_model)
+fltDF <- na.omit(tolower(rawDF[[19]]))
+annData <- udpipe_annotate(udmodel_dutch, x = fltDF)
+annDF <- as.data.frame(annData)
+str(annDF)
+head(annDF)
+```
+
+### Data filteren en wordcloud bouwen
+```{r}
+annDFflt <- filter(annDF, upos %in% c("ADJ", "VERB", "NOUN"))
+by_upos <- group_by(annDFflt, token)
+wordFreq <- summarise(by_upos,
+  freq = n()
+)
+## Verwijder woorden met een neutrale betekenis en toon alleen de woorden die vaker dan 10 keer voorkomen.
+wordFreq <- filter(wordFreq, !(token %in% c("kunnen", "zien", "beter", "kan", "staat", "staan", "komen", "moet")), freq > 5)
+wordcloud2(data = wordFreq, size = 1)
+```
+
+### Colocaties bepalen
+```{r}
+## Collocation (words following one another)
+stats1 <- keywords_collocation(x = annDF, 
+                             term = "token", group = c("doc_id", "paragraph_id", "sentence_id"),
+                             ngram_max = 4)
+## Co-occurrences: How frequent do words occur in the same sentence, in this case only nouns or adjectives
+stats2 <- cooccurrence(x = subset(x = annDF, upos %in% c("NOUN", "ADJ")), 
+                     term = "lemma", group = c("doc_id", "paragraph_id", "sentence_id"))
+## Co-occurrences: How frequent do words follow one another
+stats3 <- cooccurrence(x = annDF$lemma, 
+                     relevant = annDF$upos %in% c("NOUN", "ADJ"))
+## Co-occurrences: How frequent do words follow one another even if we would skip 2 words in between
+stats4 <- cooccurrence(x = annDF$lemma, 
+                     relevant = annDF$upos %in% c("NOUN", "ADJ"), skipgram = 2)
+head(data.frame(stats3))
+```
+
+### Topics bepalen
+```{r}
+stop_words <- data.frame(word = stopwords(language = "nl", source = "snowball"))
+
+corpusDF <- unique(select(annDF, doc_id, sentence))
+
+doc_words <- corpusDF %>%
+  unnest_tokens(word, sentence) %>%
+  count(doc_id, word, sort = TRUE) %>%
+  ungroup() %>%
+  anti_join(stop_words)
+
+total_words <- doc_words %>% 
+  group_by(doc_id) %>% 
+  summarize(total = sum(n))
+
+doc_words <- left_join(doc_words, total_words)
+
+doc_words
+
+doc_term_mat <- doc_words %>% cast_dtm(doc_id, word, n)
+doc_lda <- LDA(doc_term_mat, k = 2, control = list(seed = 1234))
+doc_lda
+
+doc_topics <- tidy(doc_lda, matrix = "beta")
+doc_topics
+```
+
+```{r}
+doc_top_terms <- doc_topics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+doc_top_terms %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  coord_flip()
+```
+

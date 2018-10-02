@@ -45,7 +45,7 @@ wordFreq <- summarise(by_upos,
   freq = n()
 )
 ## Verwijder woorden met een neutrale betekenis en toon alleen de woorden die vaker dan 10 keer voorkomen.
-wordFreq <- filter(wordFreq, !(token %in% c("kunnen", "zien", "beter", "kan", "staat", "staan", "komen", "moet")), freq > 5)
+wordFreq <- filter(wordFreq, !(token %in% c("kunnen", "zien", "beter", "kan", "staat", "staan", "komen", "moet")), freq > 3)
 wordcloud2(data = wordFreq, size = 1)
 ```
 
@@ -68,8 +68,13 @@ head(data.frame(stats3))
 ```
 
 ### Topics bepalen
+
+Met topic modeling kan gekeken worden of de reacties in de open vraag gegroepeerd kunnen worden naar thema. In dit geval hebben we de opdracht gegeven de antwoorden in twee groepen op te delen zodanig dat ze zoveel mogelijk van elkaar verschillen.
+
+Hiervoor wordt per woord/topic-combinatie een parameter berekend, de beta. Hoe hoger de beta des te meer associatie het woord met een topic heeft. Door per woord te filteren op de hoogste beta, ontstaan drie woordgroepen.
+
 ```{r}
-stop_words <- data.frame(word = stopwords(language = "nl", source = "snowball"))
+stop_words <- data.frame(word = c(stopwords(language = "nl", source = "snowball"), "niks", "oo", "onderwijs", "online"))
 
 corpusDF <- unique(select(annDF, doc_id, sentence))
 
@@ -98,7 +103,7 @@ doc_topics
 ```{r}
 doc_top_terms <- doc_topics %>%
   group_by(topic) %>%
-  top_n(10, beta) %>%
+  top_n(15, beta) %>%
   ungroup() %>%
   arrange(topic, -beta)
 
@@ -109,4 +114,6 @@ doc_top_terms %>%
   facet_wrap(~ topic, scales = "free") +
   coord_flip()
 ```
+
+
 

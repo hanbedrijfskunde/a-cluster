@@ -71,7 +71,7 @@ head(data.frame(stats3))
 
 Met topic modeling kan gekeken worden of de reacties in de open vraag gegroepeerd kunnen worden naar thema. In dit geval hebben we de opdracht gegeven de antwoorden in twee groepen op te delen zodanig dat ze zoveel mogelijk van elkaar verschillen.
 
-Hiervoor wordt per woord/topic-combinatie een parameter berekend, de beta. Hoe hoger de beta des te meer associatie het woord met een topic heeft. Door per woord te filteren op de hoogste beta, ontstaan drie woordgroepen.
+Hiervoor wordt per woord/topic-combinatie een parameter berekend, de beta. Hoe hoger de beta des te meer associatie het woord met een topic heeft. Door per woord te filteren op de hoogste beta, ontstaan twee woordgroepen.
 
 ```{r}
 stop_words <- data.frame(word = c(stopwords(language = "nl", source = "snowball"), "niks", "oo", "onderwijs", "online"))

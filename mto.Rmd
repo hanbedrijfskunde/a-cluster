@@ -125,7 +125,7 @@ sentiment <- sapply(rawData[[24]], function(x) pattern_sentiment(x, language = "
 subjectiv <- sapply(rawData[[24]], function(x) pattern_sentiment(x, language = "dutch")[[2]])
 tekst <- sapply(rawData[[24]], function(x) pattern_sentiment(x, language = "dutch")[[3]])
 sentDF <- data.frame(rawData[1:7],tekst, sentiment, subjectiv) %>% filter(tekst != "NA")
-sentDF$opleiding <- substr(sentDF$L1, 1, 2)
+sentDF$opleiding <- as.factor(substr(sentDF$L1, 1, 2))
 
 grpKlas <- sentDF %>% group_by(L1)
 
@@ -148,23 +148,32 @@ Dubbelklik op een kleur in de legenda om een selectie te zien van een klas.
 
 ```{r}
 sentDF$sentiment <- round(sentDF$sentiment, 2)
+sentDF$tekst <- sapply(sentDF$tekst,function(x) gsub("\\. ","\\.<br>",as.character(x)))
 
-pal <- rainbow(dim(sentDF)[2]-1)
+pal1 <- rainbow(dim(sentDF)[2]-1)
+pal2 <- rainbow(length(levels(sentDF$opleiding)))
+
 f <- list(
   family = "Courier New, monospace",
   size = 14,
   color = "#7f7f7f"
 )
+
 x <- list(
   title = "Polariteit (neg / pos)",
   titlefont = f,
   range = c(-1, 1)
 )
+
 y <- list(
   title = "Subjectiviteit",
   titlefont = f
 )
-plot_ly(sentDF, x = sentDF$sentiment, y = sentDF$subjectiv, text = paste("Tekst: ", sentDF$tekst), hoverinfo = "text", mode = "markers", marker = list(size = 20), color = sentDF$L1, colors = pal) %>%
+
+plot_ly(sentDF, x = sentDF$sentiment, y = sentDF$subjectiv, text = paste("Tekst: ", sentDF$tekst), hoverinfo = "text", mode = "markers", marker = list(size = 20), color = sentDF$L1, colors = pal1) %>%
+  layout(autosize = F, width = 1000, height = 800, xaxis = x, yaxis = y)
+
+plot_ly(sentDF, x = sentDF$sentiment, y = sentDF$subjectiv, text = paste("Tekst: ", sentDF$tekst), hoverinfo = "text", mode = "markers", marker = list(size = 20), color = sentDF$opleiding, colors = pal2) %>%
   layout(autosize = F, width = 1000, height = 800, xaxis = x, yaxis = y)
 
 ```

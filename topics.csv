@@ -1,435 +1,435 @@
 "","doc_id","sentence","topic","gamma"
-"1","doc1","b. duidelijk opzet over wat er van je wordt verwacht.",3,0.924465178549068
-"13","doc10","b.",3,0.987609061199873
-"15","doc10","ik vond dat de uitleg die wij de 1e les hierover kregen beter had gekund.",3,0.987609061199873
-"31","doc10","pas nadat wij het nog 2 keer gevraagd hadden aan een docent hadden wij een beter beeld van wat er van ons verwacht word.",3,0.987609061199873
-"56","doc100","d.",1,0.410843322335697
-"58","doc100","concentreren in de klas is lastig, na het verstrekken van de opdracht buiten het lokaal in groepen werken is handiger naar mijn mening",1,0.410843322335697
-"82","doc101","b. eerder het bedrijf bezoeken",4,0.924466394602125
-"88","doc102","b. betere introductie tot het project.",3,0.952777254350072
-"96","doc102","wat is het einddoel etc.",3,0.952777254350072
-"101","doc103","a. goede sfeer in de groep|b.",3,0.347790593699979
-"109","doc103","betere uitleg over challenges",3,0.347790593699979
-"113","doc104","b. duidelijkere uitleg over de challenges",1,0.924464041208406
-"120","doc105","f.",3,0.941886188114244
-"122","doc105","uitleg over hoe je op onderwijs online moet inleveren",3,0.941886188114244
-"131","doc106","a. prettige leersfeer|b.",2,0.941886625040757
-"136","doc106","databanken zijn top!",2,0.941886625040757
-"140","doc107","b.",3,0.569244784412426
-"142","doc107","het project mag af entoe iets duidelijker, bijvoorbeeld waar en wanneer je iets moet inleveren.",3,0.569244784412426
-"159","doc108","d.",2,0.960230150564871
-"161","doc108","meer ruimte nodig in de klas aangezien we met zoveel man zijn",2,0.960230150564871
-"173","doc109","c. samenwerking verloopt soepel, zowel met de groep als de docenten|f.",1,0.969771300546747
-"186","doc109","de challenges zijn duidelijk",1,0.969771300546747
-"190","doc11","b. meer helderheid over de challenges|c.",2,0.924464223121516
-"198","doc11","is top",2,0.924464223121516
-"200","doc110","b. nu staat alle informatie appart.",1,0.973009452030539
-"207","doc110","het is handiger als alle informatie bij elkaar staat",1,0.973009452030539
-"216","doc111","d.",3,0.965650838285926
-"218","doc111","er mag wel meer duidelijkheid gegeven worden waar we kunnen zitten als groep",3,0.965650838285926
-"231","doc112","d.",4,0.924466128604267
-"233","doc112","fijn dat er genoeg plekken zijn.",4,0.924466128604267
-"240","doc113","a. er kan gelachen maar ook gewerkt worden.|b. soms mis ik wel wat informatie bij het bedrijfsproject.",1,0.986257482043778
-"260","doc113","het is voor mij nu bijvoorbeeld een beetje onduidelijk wat er bedoeld wordt met de challenge week 2 van bedrijfskunde.|d.",1,0.986257482043778
-"281","doc113","veel fijne werkplekken op sch*",1,0.986257482043778
-"287","doc114","d.",2,0.595139316322007
-"289","doc114","in het lvs 10 gebouw zijn er weinig werkruimtes waar je rustig in stilte met je groepje kunt zitten.",2,0.595139316322007
-"309","doc115","b. duidelijker|e.",2,0.522392302821071
-"313","doc115","eerst uitleggen wat de bedoeling is van dit team",2,0.522392302821071
-"322","doc116","b. kan overzichtelijker.",3,0.952777196633852
-"327","doc116","nu is het nog te veel zoeken wat veel energie en tijd kost.",3,0.952777196633852
-"341","doc117","b. duidelijker",1,0.811384937526355
-"344","doc118","c. perfecte samenwerking|d.",1,0.656214298438014
-"348","doc118","supergoede werkplekken.",1,0.656214298438014
-"351","doc119","a. teambuilding game van +/- 5 min",3,0.941886314769667
-"358","doc12","a. tony ebben vind ik niet leuk lesgeven.",3,0.98760901303949
-"367","doc12","ik vind deze meneer te streng en erg ongezellig.",3,0.98760901303949
-"377","doc12","ik ben meer tevreden over de sfeer als er een andere leraar is.|b. we worden van veel informatie voorzien, echt bij de bedrijfskunde challenge is er erg veel ondui*",3,0.98760901303949
-"409","doc120","b. sommige opdrachten zouden wel iets duidelijker mogen worden uitgelegd",1,0.965651289805347
-"420","doc121","b. in begin van de les even de challenges toelichten.",2,0.422196573031601
-"432","doc122","b. meer toegankelijker maken",1,0.892131185452709
-"437","doc123","a. erg gezellig|c. gaat top",2,0.941886479350514
-"443","doc124","f.",1,0.811384937526355
-"445","doc124","duidelijker",1,0.811384937526355
-"446","doc125","b. fijn als het duidelijker is",4,0.892124252056367
-"453","doc126","b. sommige opdrachten worden nogal vaag geformuleerd",4,0.952775735933467
-"461","doc127","b. challanges kunnen soms iets duidelijker worden uitgelegd.",1,0.621532188487216
-"471","doc128","b. vaak weinig en onduidelijke informatie",3,0.664479509011107
-"478","doc129","f.",1,0.924465059061444
-"480","doc129","soms onduidelijk uitgelegd",1,0.924465059061444
-"483","doc13","b.",4,0.907283903185825
-"485","doc13","de opdrachten die we krijgen zijn vaak erg vaag.",4,0.907283903185825
-"495","doc13","ik zou de opdrachten graag iets duidelijker zien.|d.",4,0.907283903185825
-"504","doc13","het is fijn dat er in de school veel verschillende werkplekken beschikbaar zijn.",4,0.907283903185825
-"518","doc130","f.",1,0.924465301386603
-"520","doc130","af en toe onduidelijk",1,0.924465301386603
-"524","doc131","e.",4,0.960229342001354
-"526","doc131","geef een challenge pas na nodige uitleg.",4,0.960229342001354
-"534","doc131","bdk",4,0.960229342001354
-"535","doc132","d.",4,0.977771035265348
-"537","doc132","krijgen eerst tijd om aan de opdrachten te werken, en krijgen later in de week pas uitleg over de opdrachten",4,0.977771035265348
-"558","doc133","a. de sfeer is erg prettig|b.",2,0.983569058062037
-"566","doc133","de informatievoorziening is onduidelijk|c.",2,0.983569058062037
-"570","doc133","onze samenwerking is erg goed|d.",2,0.983569058062037
-"576","doc133","de werkplekken zijn goed|e.",2,0.983569058062037
-"581","doc133","ons team werkt erg goed",2,0.983569058062037
-"586","doc134","f.",4,0.983569244184087
-"588","doc134","misschien is het handig dat coaching naar het vijfde uur gaat, zodat je de uitleg van de opdrachten al hebt gehad.",4,0.983569244184087
-"611","doc134","zo kun je bij coaching aan je opdrachten werken.",4,0.983569244184087
-"621","doc135","b. is nog onduidelijk soms",1,0.892129317233136
-"627","doc136","b. top: verstrekken van opdracht en informatie /les die van toepassing is voor de opdracht beter plannen ( maandag opdracht en woensdag les is niet ideaal)",2,0.982423004779604
-"656","doc137","b. opdrachten pas geven nadat we uitleg over die onderwerpen hebben gehad in de les. dit heeft vooral betrekking op bedrijfskunde.",3,0.422847462186596
-"680","doc138","b. meer uitleg over wat de bedoeling is per challenge|d.",1,0.9527767616669
-"692","doc138","meer stroom",1,0.9527767616669
-"694","doc139","f.",3,0.983569243595801
-"696","doc139","geen opdrachten verstrekken waarvan het doel niet nuttig is / niet te kinderlijk behandelen van iedereen omtrent de handelingen, kan daardoor erg langzaam gaan allemaal.",3,0.983569243595801
-"723","doc14","a. er is een fijne werksfeer met betrekking tot het project",4,0.48063218660583
-"735","doc140","b. betere communicatie onder de mt leden",3,0.941886625040474
-"743","doc141","c. meer controle op de groepssamenwerkingen",1,0.892131394999791
-"749","doc142","a. de sfeer in de businessunit is leuk en er wordt goed gewerkt.|c. er is een goede samenwerking binnen ons team.",2,0.97300979944762
-"772","doc143","f.",1,0.819843627571523
-"774","doc143","sommige opdrachten mogen iets beter beschreven worden en het mag ook wel iets moeilijker.",1,0.819843627571523
-"789","doc144","b. soms zijn de opdrachten van bijvoorbeeld bedrijfskunde niet geheel duidelijk.",1,0.723821301303124
-"802","doc145","b. soms even de opdrachten verduidelijken want er zijn meestal wel een aantal vragen over",4,0.619307588586649
-"818","doc146","b. iets meer duidelijkheid, soms is het een beetje wazig|d.",4,0.775033196401324
-"831","doc146","misschien, meer werkplekken reserveren zodat de groep op verschillende rustigere plekken kan werken",4,0.775033196401324
-"845","doc147","c. zelf teams mogen maken|d.",1,0.739243852896931
-"851","doc147","studieruimtes beschikbaar stellen dat de klas in kleinere groepen kan werken",1,0.739243852896931
-"862","doc148","b. geef een keer een uitleg waar alles wordt uitgelegd voor heel het bedrijfsproject.",3,0.981104978793163
-"878","doc148","we kregen steeds per onderdeel te horen wat de bedoeling is.",3,0.981104978793163
-"890","doc149","c. binnen mijn team is de samenwerking erg goed, maar naar mijn mening kan er in de business unit wel meer worden samengewerkt.|e.",2,0.982423016261437
-"915","doc149","ik ben zeer tevreden met het management team!",2,0.982423016261437
-"924","doc15","c. de samenwerking verloopt soepel en ook goed, we kunnen goed samen overweg|d.",1,0.730133874287243
-"939","doc15","soms zou het denk ik wel fijn zijn als we in aparte ruimtes kunnen werken als groep.",1,0.730133874287243
-"957","doc15","soms is het namelijk redelijk druk met alle groepjes die aan het overleggen zijn.|f.",1,0.730133874287243
-"972","doc15","er s*",1,0.730133874287243
-"974","doc150","d.",4,0.676442297192195
-"976","doc150","weinig werkplekken beschikbaar waar stilte is",4,0.676442297192195
-"982","doc151","a. er hangt een goede sfeer binnen de groep",2,0.765369982417773
-"992","doc152","d.",4,0.983569187039016
-"994","doc152","weinig werkplekken waar je zonder overlast kunt werken.",4,0.983569187039016
-"1003","doc152","de plekken die wel beschikbaar zijn dienen gereserveerd te worden plus zitten snel vol.",4,0.983569187039016
-"1018","doc153","a. hele fijne sfeer op school ik voel me thuis",1,0.600196132987135
-"1029","doc154","b. informatie mag soms wel duidelijker beschreven worden",1,0.68476388332905
-"1038","doc155","b. tip: duidelijker op een rijtje zetten wat we nou precies moeten doen",3,0.965651224529297
-"1053","doc156","b. goede informatie|e.",4,0.92446145318506
-"1058","doc156","duidelijk",4,0.92446145318506
-"1059","doc157","f.",1,0.577962740989192
-"1061","doc157","er is soms onduidelijkeheid over wat er voor welk vak gedaan moet worden.",1,0.577962740989192
-"1075","doc158","f.",3,0.952776935823107
-"1077","doc158","voor mij is het onduidelijk en ik weet niet precies hoe ik te werk moet gaan.",3,0.952776935823107
-"1094","doc159","f.",3,0.960230357821079
-"1096","doc159","ik vind het allemaal nog best ingewikkeld wat er precies van mij wordt verwacht.",3,0.960230357821079
-"1111","doc16","b. soms worden we nog iets te veel in het diepe gegooid over de opdrachten die gemaakt moeten worden|c. samenwerking loopt goed binnen onze groep, we liggen veen op een lijn en kunnen makkelijk communiceren.|e.",1,0.713886039552408
-"1149","doc16","de leraar van bedrijfskunde is zelf ook nog*",1,0.713886039552408
-"1158","doc160","b. er komt zeer veel informatie in een keer op je af, dit had beter verdeeld kunnen worden over de week",1,0.812109987616843
-"1181","doc161","b. challenges mogen soms wat duidelijker",1,0.941886181502393
-"1188","doc162","e.",2,0.960230072149165
-"1190","doc162","de drukte van de klas gaat niet goed met sommige managers",2,0.960230072149165
-"1201","doc163","b. opdracht iets duidelijker zodat je weet wat het bedrijf van je wilt weten",4,0.356931303582794
-"1216","doc164","c. betere organisatie binnen de unit",2,0.711258706471656
-"1222","doc165","b. concreter informatie geven over wat er van ons verwacht wordt.",3,0.731081658799416
-"1235","doc166","a. heel gezellig!",2,0.892130845524104
-"1240","doc167","b. mag duidelijker",3,0.892129082508468
-"1244","doc168","a. meer kunst|d.",2,0.924466394602123
-"1249","doc168","stilte ruimte's",2,0.924466394602123
-"1251","doc169","b. mag allemaal duidelijker",3,0.924465392274659
-"1256","doc17","f.",1,0.952777150481137
-"1258","doc17","een overzicht maken met wat de opdrachten per week zijn die je moet doen",1,0.952777150481137
-"1272","doc170","e.",2,0.520948604131726
-"1274","doc170","de docent onderzoek is niet duidelijk.",2,0.520948604131726
-"1281","doc170","niemand weet wat je moet doen en hij kan gewoon geen les geven.",2,0.520948604131726
-"1295","doc170","volgende keer hem niet als docent gebruiken hiervoor.",2,0.520948604131726
-"1304","doc171","a. de sfeer binnen onze business unit is heel erg goed.|e.",2,0.985464969205812
-"1317","doc171","ik ben zeer tevreden over onze coach, bedrijfskundige en de directeur.",2,0.985464969205812
-"1330","doc171","ik ben zeer ontevreden over de onderzoeker",2,0.985464969205812
-"1337","doc172","b.",3,0.969771748994056
-"1339","doc172","de onderzoeksdocent weet niet wat hij aan het doen is.|e.",3,0.969771748994056
-"1350","doc172","ik ben over alle docenten tevreden behalve de onderzoeks docent",3,0.969771748994056
-"1360","doc173","e.",3,0.924465949275715
-"1362","doc173","vak onderzoek is mij onduidelijk",3,0.924465949275715
-"1367","doc174","e.",3,0.98110517532987
-"1369","doc174","ik ben niet tevreden over de docent van onderzoek, henk.",3,0.98110517532987
-"1381","doc174","het is vaak onduidelijk en hij blijft lang hangen in een onderwerp en dat vind ik zonde van de tijd",3,0.98110517532987
-"1401","doc175","e.",3,0.941886088562991
-"1403","doc175","het is onduidelijk wat de bedoeling is met het vak onderzoek",3,0.941886088562991
-"1414","doc176","b. duidelijkere richting naar het eindproduct|e.",3,0.952777121511503
-"1422","doc176","onderzoek is onduidelijk",3,0.952777121511503
-"1425","doc177","b. bij onderzoek meer info veel is onduidelijk",3,0.924465949275715
-"1434","doc178","a. de sfeer is erg goed in de werkgroep|c.",2,0.973009699304692
-"1444","doc178","de samenwerking gaat tot nu toe erg goed.",2,0.973009699304692
-"1453","doc179","e.",3,0.892131394999783
-"1455","doc179","mag wat meer ondersteuning",3,0.892131394999783
-"1459","doc18","c. betere afspraken en taakverdeling",3,0.924466394601617
-"1464","doc180","c. meer verschillende groepjes werken, je werkt nu bijna altijd met dezelfde mensen.",4,0.986257516811531
-"1479","doc180","zo leer je de andere ook niet kennen.|d.",4,0.986257516811531
-"1488","doc180","meer lokalen als dat mogelijk is, het klooster is geen fijne werkplek.",4,0.986257516811531
-"1502","doc180","vooral met hoorcollege niet.|f.",4,0.986257516811531
-"1507","doc180","meer informatie i.p.v.",4,0.986257516811531
-"1510","doc180","al*",4,0.986257516811531
-"1512","doc181","b. duidelijk maken waarom je welke vakken hebt/ sommige dingen komen dubbelop over|d.",4,0.98242311791843
-"1527","doc181","meer ruimtes om aan groepsprojecten te werken in tussenuren",4,0.98242311791843
-"1536","doc182","b.",3,0.960229393257787
-"1538","doc182","ik vind de opdrachten en het doel van het project nog steeds wat vaag.",3,0.960229393257787
-"1553","doc183","e.",1,0.973009726018324
-"1555","doc183","naar mijn mening zijn een tweetal leraren zodanig vaag en onduidelijk dat ik geen idee heb wat ik in sommige lessen aan het doen ben.",1,0.973009726018324
-"1581","doc184","b. de opdrachten zijn soms nog vaag, concretere uitleg en duidelijker",1,0.96022990440275
-"1594","doc185","b.",3,0.986257505048995
-"1596","doc185","het is voor mij en mijn groepje nog vaak onduidelijk wat er precies van ons verwacht wordt en wat we moeten doen, vooral bij onderzoek is dit het geval.|e.",3,0.986257505048995
-"1627","doc185","ik heb vaak het idee dat docenten onderling niet helemaal op 1 lijn zitten over wat er moet geb*",3,0.986257505048995
-"1647","doc186","b.",2,0.952776672598384
-"1649","doc186","de opdracht eerst toelichten en uitleggen door docenten",2,0.952776672598384
-"1657","doc187","b. opdracht eerst gezamenlijk toelichten en uitleggen",2,0.95277739263477
-"1665","doc188","d.",4,0.892131394999791
-"1667","doc188","werkplek is lawaaierig",4,0.892131394999791
-"1670","doc189","b. duidelijkere info over wat er precies moet gebeuren en hoe dit moet",3,0.661039769812142
-"1684","doc19","f.",1,0.464043798333264
-"1686","doc19","overzicht werkzaamheden",1,0.464043798333264
-"1688","doc190","e.",2,0.990432113548681
-"1690","doc190","niet elke manager heeft toegevoegde waarde.",2,0.990432113548681
-"1697","doc190","sommige managers besteden eerst anderhalf uur aan een voorstel ronde terwijl wij elkaar al lang kennen.",2,0.990432113548681
-"1714","doc190","logisch dat de manager ons nog moet leren kennen maar doe dat dan kort en bondig i.p.v. vragen naar all*",2,0.990432113548681
-"1735","doc191","a. leuke sfeer!|b. moet duidelijker|d.",3,0.983569078232681
-"1743","doc191","meer vrijheid om te kiezen waar je wilt zitten|e.",3,0.983569078232681
-"1753","doc191","onduidelijk, kan beter gecommuniceerd worden naar de groep toe|f.",3,0.983569078232681
-"1764","doc191","leuk afwisselend",3,0.983569078232681
-"1766","doc192","a. leuke sfeer binnen ons team!|b. kan duidelijker|d.",3,0.677143812961033
-"1777","doc192","meer vrijheid|e.",3,0.677143812961033
-"1780","doc192","onduidelijk en niet goed voorbereid|f.",3,0.677143812961033
-"1786","doc192","afwisselende opdrachten dat is leuk!",3,0.677143812961033
-"1792","doc193","b. wat duidelijker uitgelegde opdrachten.|e.",1,0.6796021720485
-"1799","doc193","duidelijke rolverdeling binnen de business unit wie wat moet doen",1,0.6796021720485
-"1809","doc194","c. de samenwerking verloopt goed|f.",2,0.952777308691802
-"1815","doc194","de werkzaamheden zijn interassant",2,0.952777308691802
-"1819","doc195","b. constant wachten op een onderdeeltje uitleg voordat je door kan met de challenges is echt vervelend.|d.",4,0.986257566041922
-"1838","doc195","misschien ook buiten de klaslokalen werken.",4,0.986257566041922
-"1845","doc195","nu zit je constant stil in het lokaal.",4,0.986257566041922
-"1854","doc195","daar word je loom van.",4,0.986257566041922
-"1860","doc196","b. de opdrachten mogen duidelijker uitgelegd worden",1,0.941885772929296
-"1868","doc197","e.",2,0.698059017940356
-"1870","doc197","meer voorbereiding, aangezien het managementteam zelf niet duidelijk weet wat we moeten doen.",2,0.698059017940356
-"1885","doc197","dit is erg verwarrend voor ons.",2,0.698059017940356
-"1892","doc198","b.",1,0.721832188119626
-"1894","doc198","ik vind dat de opdrachten iets duidelijker geformuleerd mogen worden.",1,0.721832188119626
-"1905","doc199","b. nog steeds niet helemaal duidelijk wat en hoe",4,0.924464150736893
-"1915","doc2","b. duidelijker maken hoe je dit tot een groot verslag kan maken",1,0.952777269523096
-"1928","doc20","b. alle informatie die wordt gegeven loop allemaal wel door elkaar.",3,0.983569119139651
-"1941","doc20","het is niet altijd duidelijk wat er nou precies gedaan moet worden.",3,0.983569119139651
-"1954","doc20","dit mag wel duidelijker aangegeven worden.",3,0.983569119139651
-"1961","doc200","b. mocht duidelijker, vooral vaag in het begin",3,0.952776646933328
-"1971","doc201","b. betere uitleg bij onderzoek over de challenges",3,0.658770952439223
-"1980","doc202","e.",1,0.952776685941496
-"1982","doc202","niet alle docenten zijn even duidelijk over wat we moeten doen.",1,0.952776685941496
-"1994","doc203","a. een centraler werkwijze zou fijn zijn",2,0.924464956453738
-"2002","doc204","b.",3,0.794353748020347
-"2004","doc204","ik vind soms de opdrachten onduidelijk en ik vind t dan onduidelijk wat er nou echt gedaan moet worden.",3,0.794353748020347
-"2024","doc205","b. vind het jammer dat er voor alles betaald moet worden, denk hierbij aan taalcursus, en edubook",3,0.965651606270063
-"2044","doc206","f.",1,0.975621122398838
-"2046","doc206","af en toe wat meer dagen tussen de challenges, bijvoorbeeld een weekend er tussen zou wel eens prettig zijn.",1,0.975621122398838
-"2067","doc207","e.",2,0.825725341006456
-"2069","doc207","ik vind het erg mooi dat de directrice zo betrokken is met onze opleiding",2,0.825725341006456
-"2083","doc208","c. opdracht wordt goed opgedeeld.",2,0.924466371857896
-"2089","doc209","f.",3,0.892129583794404
-"2091","doc209","onduidelijke uitleg",3,0.892129583794404
-"2093","doc21","b.",1,0.975620949532857
-"2095","doc21","ik vind het een beetje chaos met alle challenges die je krijgt, misschien is het handig als daar iets meer aandacht aan wordt besteed",1,0.975620949532857
-"2120","doc210","b. leg iets meer uit, we worden in het diepe gegooid.",2,0.986257609016969
-"2134","doc210","de helft heeft niet goed in de gaten wat er moet gebeuren.|d.",2,0.986257609016969
-"2147","doc210","probeer meer tijd in de verschillende onderdelen te besteden.",2,0.986257609016969
-"2157","doc210","het gaat nu van onderwerp naar onderwerp.",2,0.986257609016969
-"2165","doc210","het is heel verwarrend en vervelen*",2,0.986257609016969
-"2172","doc211","f.",1,0.982423093801962
-"2174","doc211","de opdrachten van u.r. business kosten soms veel tijd.",1,0.982423093801962
-"2184","doc211","en dan is de deadline 3 dagen later, en dat is wel eens kort dag om het af te hebben.",1,0.982423093801962
-"2206","doc212","b. een duidelijker geheel|d.",4,0.975621017706577
-"2212","doc212","lokalen in het albertinum zijn te klein en je hebt niet veel mogelijkheid om buiten het lokaal te studeren",4,0.975621017706577
-"2231","doc213","b. sommige challenges mogen duidelijker.",1,0.941885988361462
-"2238","doc214","b. zorgen dat de opdrachten tastbaar worden, want de eerste weken is het nog heel vaag.|c. meer handvaten geven, omdat je direct losgelaten wordt.",1,0.804912849036234
-"2266","doc215","b. informatie is goed, docent onderzoek is minder.|e.",3,0.705102064592191
-"2277","doc215","rol directeur onduidelijk",3,0.705102064592191
-"2280","doc216","b. iets meer uitleg per challenge|e.",1,0.965651203780643
-"2288","doc216","duidelijkeheid, niet te gehaast iets willen uitleggen",1,0.965651203780643
-"2296","doc217","b. de opdrachten die we moeten maken zijn niet bij elke vakken even duidelijk",1,0.770972690060992
-"2311","doc218","e.",2,0.892131394999774
-"2313","doc218","de directeur anders",2,0.892131394999774
-"2316","doc219","b. soms wat chaotisch",1,0.89213121714954
-"2321","doc22","c. meer duidelijkheid over de verschillende challenges met de managers",4,0.589613204867591
-"2331","doc220","b. er wordt al 3 weken gezegd apa gaat uitgelegd worden.",4,0.98871856050176
-"2344","doc220","nu worden we beoordeelt op iets wat nog niet uitgelegd is|d.",4,0.98871856050176
-"2356","doc220","in een vol warm klaslokaal werken 5 uur achter elkaar is niet bevorderlijk voor de concentratie.",4,0.98871856050176
-"2373","doc220","de school heeft goeie werkplekken laat *",4,0.98871856050176
-"2380","doc221","d. rustige werkplekken (top)|e.",2,0.960230291489897
-"2387","doc221","goede instructies (top)",2,0.960230291489897
-"2392","doc222","e.",3,0.952777439424125
-"2394","doc222","minder praten en meer zelf doen vooral bij het vak onderzoek",3,0.952777439424125
-"2405","doc223","b. bij onderzoek mag meer informatie gegeven worden",3,0.941886347173933
-"2414","doc224","b. informatie duidelijker weergeven op onderwijsonline.",1,0.941885734404738
-"2422","doc225","d.",3,0.765381255143061
-"2424","doc225","er zijn heel weinig oplaadpunten voor elektronische apparaten",3,0.765381255143061
-"2432","doc226","d.",4,0.830223648472092
-"2434","doc226","geen stopcontacten aanwezig in de lokalen waar we zitten om met je laptop te werken",4,0.830223648472092
-"2449","doc227","b. alles via 1 platform, nu nog veel verspreid en dus veel onduidelijkheid",3,0.952777497636238
-"2464","doc228","d.",1,0.711309077311882
-"2466","doc228","meer stopcontacten ivm het werken met laptops",1,0.711309077311882
-"2473","doc229","e.",1,0.941885874227183
-"2475","doc229","soms misschien specifieker zijn in opdrachtgeving",1,0.941885874227183
-"2481","doc23","d.",4,0.941885982925045
-"2483","doc23","misschien moet de klas wat meer 'bedrijf ingericht' zijn",4,0.941885982925045
-"2494","doc24","b. onderwijs online is aardig onoverzichtelijk. (inleverdatums zijn vaag en veranderen vaak.) ook is het handiger om alles in 1 progamma te zetten (rooster, inschrijven voor tentamens en huiswerk en dergelijke.)",3,0.98546493302613
-"2534","doc25","c. de samenwerking is matig!|d.",2,0.982423302879151
-"2540","doc25","de werkplekken zijn gevuld, maar ik zie nog niet van iedereen een zo goed mogelijke inzet!|f.",2,0.982423302879151
-"2558","doc25","de werkzaamheden in het bu zijn erg interessant om uit te voeren!",2,0.982423302879151
-"2571","doc26","b. het mag wat duidelijker",3,0.892129082508468
-"2577","doc27","e.",4,0.941884779822216
-"2579","doc27","het zou fijn zijn als alles wat duidelijker en/of iets eerder wordt aangegeven",4,0.941884779822216
-"2592","doc28","b.",4,0.941886129654056
-"2594","doc28","de deadlines worden nogal eens niet duidelijk aangegeven",4,0.941886129654056
-"2602","doc29","e.",1,0.640333064607378
-"2604","doc29","challenges eerder in de week duidelijk maken",1,0.640333064607378
-"2611","doc3","b. duidelijke deadlines bespreken",4,0.624806855409263
-"2616","doc30","b. duidelijke uitleg wat het einddoel is",3,0.500488046222827
-"2624","doc31","b. soms wat onduidelijk qua deadline.",1,0.941885975404741
-"2632","doc32","a. de sfeer is prima|b.",4,0.623693941356235
-"2639","doc32","het is voor mij nog onduidelijk wat er precies van mij verwacht word, ook is het niet duidelijk wat het doel is van het project.",4,0.623693941356235
-"2666","doc32","doordat we werken met challenges zie ik het niet als een project maar eerder als losse opdrachten.|c.*",4,0.623693941356235
-"2684","doc33","f.",1,0.941885332629176
-"2686","doc33","ik vind het nog een beetje onduidelijk wat we moeten doen",1,0.941885332629176
-"2697","doc34","a. de sfeer in onze klas is echt erg goed.|e.",3,0.520430422633166
-"2709","doc34","het was voor mij onduidelijk wat er precies van mij verwacht werd aan het begin.",3,0.520430422633166
-"2725","doc35","c. er wordt goed samengewerkt",2,0.892131345057525
-"2730","doc36","b. meer duidelijkheid over wat en wanneer iets moet gebeuren",3,0.624703564140675
-"2741","doc37","b.",3,0.794885320325852
-"2743","doc37","het was de eerste twee weken niet heel duidelijk wat je moest doen met de challenges en de eindopdracht",3,0.794885320325852
-"2762","doc38","c. de samenwerking binnen ons team verloopt goed.",2,0.989201945251123
-"2771","doc38","iedereen is bereid elkaar te ondersteunen waar het nodig is en we kunnen het werk goed verdelen.",2,0.989201945251123
-"2789","doc38","dit bevalt mij ontzettend goed.|d.",2,0.989201945251123
-"2795","doc38","de studiehokjes zijn heel erg fijn om te kunnen werken met het team.",2,0.989201945251123
-"2809","doc39","b. bij een van de projecten leggen de leraren steeds het tegenovergestelde uit",1,0.952776969971406
-"2823","doc4","d.",4,0.952777340310821
-"2825","doc4","e.v.t. een 2e lokaal om meer rust te creëren",4,0.952777340310821
-"2834","doc40","d.",4,0.892131394914671
-"2836","doc40","meer wandcontactdozen in de lokalen",4,0.892131394914671
-"2841","doc41","d.",1,0.754265340581662
-"2843","doc41","in sommige lokalen wat meer stopcontacten om laptops op te laden.",1,0.754265340581662
-"2855","doc42","b. onderwijsonline is nog vaag|d.",1,0.924465882818516
-"2862","doc42","airco",1,0.924465882818516
-"2863","doc43","d.",4,0.952777359739367
-"2865","doc43","vaste tijden om aan het project te werken. (projecturen)",4,0.952777359739367
-"2877","doc44","d.",1,0.811389638742784
-"2879","doc44","meer projectwerkplekken",1,0.811389638742784
-"2881","doc45","d.",2,0.624703552556738
-"2883","doc45","klooster op maandag is ruk",2,0.624703552556738
-"2888","doc46","b. laat iemand van de dru het project inluiden.",4,0.973009870986697
-"2899","doc46","zodat je ook echt het gevoel hebt dat je het voor iemand doet.",4,0.973009870986697
-"2913","doc47","b. duidelijkheid over welke opdrachten en hoe je die moet doen",4,0.924465267875273
-"2925","doc48","c. misschien moet de docent iets better monitoren/vragen hoe het gaat",2,0.960229615245209
-"2936","doc49","d.",4,0.711952087539339
-"2938","doc49","te weinig stopcontacten in verschillende lokalen",4,0.711952087539339
-"2944","doc5","f.",2,0.624442659617598
-"2946","doc5","de opdracht nog duidelijker formuleren.",2,0.624442659617598
-"2952","doc50","d.",4,0.480801628437357
-"2954","doc50","weinig stopcontacten bij automotive gebouw",4,0.480801628437357
-"2959","doc51","b. een agenda met wat wanneer moet|d.",1,0.924465340008758
-"2968","doc51","stopcontacten",1,0.924465340008758
-"2969","doc52","c. eigen groepen creëren zou prettiger zijn.",3,0.96977187283426
-"2977","doc52","nu weet ik gewoon niet wat ik aan ze heb.",3,0.96977187283426
-"2988","doc52","ongemotiveerd enz.",3,0.96977187283426
-"2990","doc53","d.",4,0.960230477461598
-"2992","doc53","weinig ruimte om te werken in het klooster, lokalen zijn ook veel te warm.",4,0.960230477461598
-"3008","doc54","d.",4,0.94188643954346
-"3010","doc54","klooster gebouw echt een tegenvaller",4,0.94188643954346
-"3015","doc55","d.",1,0.924466394232041
-"3017","doc55","groot tekort aan stopcontacten",1,0.924466394232041
-"3021","doc56","b. meer duidelijkheid over de planning en wat het uiteindelijke doel is.",3,0.941886159466945
-"3035","doc57","b. meer duidelijkheid over wat de opdrachten zijn",4,0.892128794667212
-"3044","doc58","d.",1,0.960230412501146
-"3046","doc58","algemene studieruimte inrichten, geen studielokalen die gereserveerd moeten worden",1,0.960230412501146
-"3056","doc59","b. iets meer uitleg",3,0.811381668877238
-"3061","doc6","d.",4,0.464330779283595
-"3063","doc6","in de lokalen iets meer stopcontacten",4,0.464330779283595
-"3069","doc60","d.",1,0.811389634986447
-"3071","doc60","meer stopcontacten",1,0.811389634986447
-"3073","doc61","b. kan soms iets duidelijker",1,0.892130148651212
-"3079","doc62","b. duidelijkheid over verjaardagen van medewerkers.",4,0.924466098216356
-"3087","doc63","c. wie is de klassenverantwoordelijke",2,0.811389638742784
-"3092","doc64","b. duidelijkere uitleg wat we moeten doen bij challenges|d.",1,0.975620911527457
-"3103","doc64","meer stopcontacten en airco|e.",1,0.975620911527457
-"3108","doc64","sommige docenten moeten duidelijker zijn",1,0.975620911527457
-"3113","doc65","f.",2,0.607995069957826
-"3115","doc65","soms beetje onduidelijk dat overal een andere site voor is.",2,0.607995069957826
-"3126","doc65","een grote site waar alles te vinden is zou handiger zijn",2,0.607995069957826
-"3137","doc66","b. meer informatie over wat er van ons verwacht wordt bij de challlenges.",3,0.984574827263604
-"3152","doc66","opdrachten zijn vaak onduidelijk.",3,0.984574827263604
-"3157","doc66","meer duidelijkheid over wanneer we het moeten inleveren, wat er allemaal in moet staan (layout) en informatie over de challenge zelf zou fijn zijn.",3,0.984574827263604
-"3185","doc67","c. de overloop van samenwerken op het hbo en het zelfstandig werken op de middelbare school is best een stap.",4,0.98964556415378
-"3206","doc67","samenwerken is soms goed, maar soms ook niet.",4,0.98964556415378
-"3216","doc67","samenwerken met mensen waarmee je weinig tot niks hebt is lastig.",4,0.98964556415378
-"3228","doc67","leuke//goede groepjes die je zel*",4,0.98964556415378
-"3234","doc68","e.",1,0.924466137373366
-"3236","doc68","feedback op de gemaakt challenges",1,0.924466137373366
-"3241","doc69","b. de opdrachten zijn langdradig, vaag en voegen naar mijn mening weinig toe aan de studie.",1,0.832528364879607
-"3260","doc7","b. sommige opdrachten mogen wat beter beschreven worden, bijvoorbeeld de opdracht bedrijfskunde van week 2",1,0.872860783334517
-"3277","doc70","d.",4,0.941886274641063
-"3279","doc70","klooster is niet echt een leuke plek",4,0.941886274641063
-"3286","doc71","e.",1,0.811389638742784
-"3288","doc71","meer feedback!",1,0.811389638742784
-"3291","doc72","b. inlevermogelijkheden",2,0.811389638742784
-"3294","doc73","b. opdrachten onduidelijk",1,0.892128033006816
-"3298","doc74","a. in de klas is goeie sfeer|b.",3,0.675960218993406
-"3307","doc74","mag duidelijker|c. niet iedereen is gemotiveerd|d.",3,0.675960218993406
-"3314","doc74","te weinig|e.",3,0.675960218993406
-"3317","doc74","onduidelijk|f.",3,0.675960218993406
-"3319","doc74","onduidelijk",3,0.675960218993406
-"3320","doc75","c. de samenwerking kan nog wat beter.",2,0.577961673574072
-"3328","doc75","er word nu te zelfstandig gewerkt.",2,0.577961673574072
-"3335","doc76","d.",4,0.952777487537763
-"3337","doc76","in klooster is weinig plek om in een tussenuur te werken",4,0.952777487537763
-"3348","doc77","d.",4,0.703129741573634
-"3350","doc77","albertinum gebouw is minder fijn",4,0.703129741573634
-"3355","doc78","d.",4,0.924466244116794
-"3357","doc78","grotere ruimtes om in te werken",4,0.924466244116794
-"3363","doc79","a. goede sfeer, goed werktempo|b.",4,0.739559452668605
-"3371","doc79","duidelijk|c. prima|d.",4,0.739559452668605
-"3374","doc79","prima|e.",4,0.739559452668605
-"3376","doc79","duidelijk|f.",4,0.739559452668605
-"3378","doc79","prima",4,0.739559452668605
-"3379","doc8","b. de challenge van vorige week van bedrijfskunde had veel beter uitgelegd moeten worden.",1,0.96565137765676
-"3395","doc80","d.",4,0.625256532535027
-"3397","doc80","te weinig stopcontacten in de lokalen",4,0.625256532535027
-"3403","doc81","d.",4,0.405542547818888
-"3405","doc81","meer ruimte, lokaal is erg krap voor een hele klas om in groepen te werken",4,0.405542547818888
-"3421","doc82","d.",4,0.324946377751305
-"3423","doc82","minder lessen in het klooster",4,0.324946377751305
-"3428","doc83","a. de klas is veelal afwachtend en terughoudend waardoor ik vaak het gevoel heb het voortouw te moeten nemen.|b.",1,0.988718465499901
-"3449","doc83","het is soms lastig het overzicht te zien/ houden in alles wat er naast de lessen nog van je gevraagd wordt.|c. mijn team is sterk met zn 3e, *",1,0.988718465499901
-"3479","doc84","b. soms onduidelijk wat je moet doen",1,0.892129317233136
-"3487","doc85","a. we hebben een goede sfeer in de klas|c. we hebben een prima samenwerking in ons groepje",2,0.757158514317122
-"3505","doc86","b. alles duidelijk op een pagina zetten.",3,0.973009634212737
-"3514","doc86","niet te zweverig zoals challanges, noem ze gewoon zo als ze zijn: opdrachten.",3,0.973009634212737
-"3530","doc87","d.",4,0.952777195999705
-"3532","doc87","fijn dat er in de school zoveel plaatsen zijn om te werken.",4,0.952777195999705
-"3545","doc88","b. we krijgen erg veel informatie in deze begin weken, hierdoor raak ik persoonlijk soms de draad kwijt.",3,0.881470638252759
-"3566","doc89","d.",4,0.94188626300933
-"3568","doc89","we zitten altijd in een druk klaslokaal met ze allen",4,0.94188626300933
-"3578","doc9","b. duidelijkere uitleg bij sommige challenges wat er precies gebeurt moet worden.|c.",2,0.98356891722412
-"3591","doc9","samenwerking binnen ons team gaat goed, in de unit zie ik tot op heden ook nog geen problemen.",2,0.98356891722412
-"3611","doc90","b. soms wat beter informeren over de opdrachten en het inleveren.",3,0.575210171417992
-"3624","doc91","b. het inleveren was onduidelijk.",3,0.892130367287198
-"3631","doc92","b.",4,0.910715035984329
-"3633","doc92","het is vaak nog vrij onduidelijk en je moet er zelf achter zien te komen soms tot na deadline.|e.",4,0.910715035984329
-"3653","doc92","een aantal van het management team kan ik niet helemaal volgen maar ik weet ook niet wat een aantal van mij verwachten.|f.",4,0.910715035984329
-"3676","doc92","de werkzaamheden waren pas ech*",4,0.910715035984329
-"3682","doc93","b. af en toe was het onduidelijk wat er van mij verwacht werd|e.",1,0.671863862443422
-"3697","doc93","een aantal mensen uit het managementteam waren onduidelijk over de projecten|f.",1,0.671863862443422
-"3709","doc93","op dit moment kan ik prima aan de projecten werken, zowel op school als thuis.",1,0.671863862443422
-"3726","doc93","het enige nadeel is dat ik pas*",1,0.671863862443422
-"3734","doc94","a. leuke klas|c. goede groep|d.",4,0.824924356987566
-"3740","doc94","genoeg werkplekken beschikbaar",4,0.824924356987566
-"3743","doc95","b. meer duidelijkheid rondom opdrachten",4,0.924465267875273
-"3749","doc96","b. soms betere uitleg.",3,0.500683800199773
-"3755","doc97","b. mag wel iets duidelijker|c. nog iets duidelijkere afspraken",3,0.952776575301737
-"3765","doc98","a.",3,0.878560082357815
-"3767","doc98","ik heb geluk dat ik in een goedwerkende team zit.|b. er word veel en duidelijk uitgelegd over han queut.",3,0.878560082357815
-"3788","doc98","superfijn",3,0.878560082357815
-"3789","doc99","b. minder over ur business en meer info over parenco|f.",3,0.969771765590171
-"3801","doc99","iets meer uitdaging mag wel",3,0.969771765590171
+"1","doc1","b. duidelijk opzet over wat er van je wordt verwacht.",3,0.940720954019297
+"13","doc10","b.",3,0.990381244824907
+"15","doc10","ik vond dat de uitleg die wij de 1e les hierover kregen beter had gekund.",3,0.990381244824907
+"31","doc10","pas nadat wij het nog 2 keer gevraagd hadden aan een docent hadden wij een beter beeld van wat er van ons verwacht word.",3,0.990381244824907
+"56","doc100","d.",2,0.554484691517459
+"58","doc100","concentreren in de klas is lastig, na het verstrekken van de opdracht buiten het lokaal in groepen werken is handiger naar mijn mening",2,0.554484691517459
+"82","doc101","b. eerder het bedrijf bezoeken",3,0.637048958079873
+"88","doc102","b. betere introductie tot het project.",3,0.963122157345227
+"96","doc102","wat is het einddoel etc.",3,0.963122157345227
+"101","doc103","a. goede sfeer in de groep|b.",3,0.540882594601018
+"109","doc103","betere uitleg over challenges",3,0.540882594601018
+"113","doc104","b. duidelijkere uitleg over de challenges",2,0.940709529251855
+"120","doc105","f.",3,0.954531113884839
+"122","doc105","uitleg over hoe je op onderwijs online moet inleveren",3,0.954531113884839
+"131","doc106","a. prettige leersfeer|b.",2,0.954532468584507
+"136","doc106","databanken zijn top!",2,0.954532468584507
+"140","doc107","b.",3,0.598243116103167
+"142","doc107","het project mag af entoe iets duidelijker, bijvoorbeeld waar en wanneer je iets moet inleveren.",3,0.598243116103167
+"159","doc108","d.",2,0.96898289221583
+"161","doc108","meer ruimte nodig in de klas aangezien we met zoveel man zijn",2,0.96898289221583
+"173","doc109","c. samenwerking verloopt soepel, zowel met de groep als de docenten|f.",1,0.585654127435826
+"186","doc109","de challenges zijn duidelijk",1,0.585654127435826
+"190","doc11","b. meer helderheid over de challenges|c.",2,0.940722039478093
+"198","doc11","is top",2,0.940722039478093
+"200","doc110","b. nu staat alle informatie appart.",1,0.978993873780987
+"207","doc110","het is handiger als alle informatie bij elkaar staat",1,0.978993873780987
+"216","doc111","d.",3,0.973232691001067
+"218","doc111","er mag wel meer duidelijkheid gegeven worden waar we kunnen zitten als groep",3,0.973232691001067
+"231","doc112","d.",1,0.940717496152256
+"233","doc112","fijn dat er genoeg plekken zijn.",1,0.940717496152256
+"240","doc113","a. er kan gelachen maar ook gewerkt worden.|b. soms mis ik wel wat informatie bij het bedrijfsproject.",1,0.989329270230126
+"260","doc113","het is voor mij nu bijvoorbeeld een beetje onduidelijk wat er bedoeld wordt met de challenge week 2 van bedrijfskunde.|d.",1,0.989329270230126
+"281","doc113","veel fijne werkplekken op sch*",1,0.989329270230126
+"287","doc114","d.",2,0.982715113223108
+"289","doc114","in het lvs 10 gebouw zijn er weinig werkruimtes waar je rustig in stilte met je groepje kunt zitten.",2,0.982715113223108
+"309","doc115","b. duidelijker|e.",1,0.755576660331914
+"313","doc115","eerst uitleggen wat de bedoeling is van dit team",1,0.755576660331914
+"322","doc116","b. kan overzichtelijker.",3,0.963121385829345
+"327","doc116","nu is het nog te veel zoeken wat veel energie en tijd kost.",3,0.963121385829345
+"341","doc117","b. duidelijker",1,0.849003607487852
+"344","doc118","c. perfecte samenwerking|d.",1,0.581582514621874
+"348","doc118","supergoede werkplekken.",1,0.581582514621874
+"351","doc119","a. teambuilding game van +/- 5 min",3,0.954532468584507
+"358","doc12","a. tony ebben vind ik niet leuk lesgeven.",3,0.990380637444161
+"367","doc12","ik vind deze meneer te streng en erg ongezellig.",3,0.990380637444161
+"377","doc12","ik ben meer tevreden over de sfeer als er een andere leraar is.|b. we worden van veel informatie voorzien, echt bij de bedrijfskunde challenge is er erg veel ondui*",3,0.990380637444161
+"409","doc120","b. sommige opdrachten zouden wel iets duidelijker mogen worden uitgelegd",1,0.973234601914251
+"420","doc121","b. in begin van de les even de challenges toelichten.",1,0.584960346088629
+"432","doc122","b. meer toegankelijker maken",1,0.914869312588626
+"437","doc123","a. erg gezellig|c. gaat top",2,0.954532109857185
+"443","doc124","f.",1,0.849003607487852
+"445","doc124","duidelijker",1,0.849003607487852
+"446","doc125","b. fijn als het duidelijker is",1,0.914854965648539
+"453","doc126","b. sommige opdrachten worden nogal vaag geformuleerd",3,0.515937169717422
+"461","doc127","b. challanges kunnen soms iets duidelijker worden uitgelegd.",1,0.56872189297446
+"471","doc128","b. vaak weinig en onduidelijke informatie",3,0.954528378666387
+"478","doc129","f.",1,0.940718091199418
+"480","doc129","soms onduidelijk uitgelegd",1,0.940718091199418
+"483","doc13","b.",1,0.877512515881946
+"485","doc13","de opdrachten die we krijgen zijn vaak erg vaag.",1,0.877512515881946
+"495","doc13","ik zou de opdrachten graag iets duidelijker zien.|d.",1,0.877512515881946
+"504","doc13","het is fijn dat er in de school veel verschillende werkplekken beschikbaar zijn.",1,0.877512515881946
+"518","doc130","f.",1,0.940719087884061
+"520","doc130","af en toe onduidelijk",1,0.940719087884061
+"524","doc131","e.",3,0.968981364905376
+"526","doc131","geef een challenge pas na nodige uitleg.",3,0.968981364905376
+"534","doc131","bdk",3,0.968981364905376
+"535","doc132","d.",1,0.982714494250495
+"537","doc132","krijgen eerst tijd om aan de opdrachten te werken, en krijgen later in de week pas uitleg over de opdrachten",1,0.982714494250495
+"558","doc133","a. de sfeer is erg prettig|b.",2,0.987234870159237
+"566","doc133","de informatievoorziening is onduidelijk|c.",2,0.987234870159237
+"570","doc133","onze samenwerking is erg goed|d.",2,0.987234870159237
+"576","doc133","de werkplekken zijn goed|e.",2,0.987234870159237
+"581","doc133","ons team werkt erg goed",2,0.987234870159237
+"586","doc134","f.",2,0.987234333536188
+"588","doc134","misschien is het handig dat coaching naar het vijfde uur gaat, zodat je de uitleg van de opdrachten al hebt gehad.",2,0.987234333536188
+"611","doc134","zo kun je bij coaching aan je opdrachten werken.",2,0.987234333536188
+"621","doc135","b. is nog onduidelijk soms",1,0.914862266077277
+"627","doc136","b. top: verstrekken van opdracht en informatie /les die van toepassing is voor de opdracht beter plannen ( maandag opdracht en woensdag les is niet ideaal)",2,0.766090595718974
+"656","doc137","b. opdrachten pas geven nadat we uitleg over die onderwerpen hebben gehad in de les. dit heeft vooral betrekking op bedrijfskunde.",3,0.783454127570287
+"680","doc138","b. meer uitleg over wat de bedoeling is per challenge|d.",3,0.963120328345683
+"692","doc138","meer stroom",3,0.963120328345683
+"694","doc139","f.",3,0.987235835618216
+"696","doc139","geen opdrachten verstrekken waarvan het doel niet nuttig is / niet te kinderlijk behandelen van iedereen omtrent de handelingen, kan daardoor erg langzaam gaan allemaal.",3,0.987235835618216
+"723","doc14","a. er is een fijne werksfeer met betrekking tot het project",2,0.721686790507461
+"735","doc140","b. betere communicatie onder de mt leden",3,0.954532468583542
+"743","doc141","c. meer controle op de groepssamenwerkingen",1,0.914870855263064
+"749","doc142","a. de sfeer in de businessunit is leuk en er wordt goed gewerkt.|c. er is een goede samenwerking binnen ons team.",2,0.978995416730007
+"772","doc143","f.",1,0.817727657939277
+"774","doc143","sommige opdrachten mogen iets beter beschreven worden en het mag ook wel iets moeilijker.",1,0.817727657939277
+"789","doc144","b. soms zijn de opdrachten van bijvoorbeeld bedrijfskunde niet geheel duidelijk.",1,0.641655094141157
+"802","doc145","b. soms even de opdrachten verduidelijken want er zijn meestal wel een aantal vragen over",1,0.976462289460713
+"818","doc146","b. iets meer duidelijkheid, soms is het een beetje wazig|d.",1,0.985315261047843
+"831","doc146","misschien, meer werkplekken reserveren zodat de groep op verschillende rustigere plekken kan werken",1,0.985315261047843
+"845","doc147","c. zelf teams mogen maken|d.",1,0.981034861757771
+"851","doc147","studieruimtes beschikbaar stellen dat de klas in kleinere groepen kan werken",1,0.981034861757771
+"862","doc148","b. geef een keer een uitleg waar alles wordt uitgelegd voor heel het bedrijfsproject.",3,0.985315642404467
+"878","doc148","we kregen steeds per onderdeel te horen wat de bedoeling is.",3,0.985315642404467
+"890","doc149","c. binnen mijn team is de samenwerking erg goed, maar naar mijn mening kan er in de business unit wel meer worden samengewerkt.|e.",2,0.986342680743776
+"915","doc149","ik ben zeer tevreden met het management team!",2,0.986342680743776
+"924","doc15","c. de samenwerking verloopt soepel en ook goed, we kunnen goed samen overweg|d.",1,0.799326343031271
+"939","doc15","soms zou het denk ik wel fijn zijn als we in aparte ruimtes kunnen werken als groep.",1,0.799326343031271
+"957","doc15","soms is het namelijk redelijk druk met alle groepjes die aan het overleggen zijn.|f.",1,0.799326343031271
+"972","doc15","er s*",1,0.799326343031271
+"974","doc150","d.",2,0.963119116491954
+"976","doc150","weinig werkplekken beschikbaar waar stilte is",2,0.963119116491954
+"982","doc151","a. er hangt een goede sfeer binnen de groep",2,0.494098829293699
+"992","doc152","d.",2,0.987235609926436
+"994","doc152","weinig werkplekken waar je zonder overlast kunt werken.",2,0.987235609926436
+"1003","doc152","de plekken die wel beschikbaar zijn dienen gereserveerd te worden plus zitten snel vol.",2,0.987235609926436
+"1018","doc153","a. hele fijne sfeer op school ik voel me thuis",1,0.714444107241518
+"1029","doc154","b. informatie mag soms wel duidelijker beschreven worden",1,0.692744919105336
+"1038","doc155","b. tip: duidelijker op een rijtje zetten wat we nou precies moeten doen",3,0.973233724472822
+"1053","doc156","b. goede informatie|e.",3,0.940710756701469
+"1058","doc156","duidelijk",3,0.940710756701469
+"1059","doc157","f.",1,0.585249134738435
+"1061","doc157","er is soms onduidelijkeheid over wat er voor welk vak gedaan moet worden.",1,0.585249134738435
+"1075","doc158","f.",3,0.96312028793577
+"1077","doc158","voor mij is het onduidelijk en ik weet niet precies hoe ik te werk moet gaan.",3,0.96312028793577
+"1094","doc159","f.",3,0.968982763719782
+"1096","doc159","ik vind het allemaal nog best ingewikkeld wat er precies van mij wordt verwacht.",3,0.968982763719782
+"1111","doc16","b. soms worden we nog iets te veel in het diepe gegooid over de opdrachten die gemaakt moeten worden|c. samenwerking loopt goed binnen onze groep, we liggen veen op een lijn en kunnen makkelijk communiceren.|e.",1,0.694481756983036
+"1149","doc16","de leraar van bedrijfskunde is zelf ook nog*",1,0.694481756983036
+"1158","doc160","b. er komt zeer veel informatie in een keer op je af, dit had beter verdeeld kunnen worden over de week",1,0.804862499983523
+"1181","doc161","b. challenges mogen soms wat duidelijker",1,0.954529652131279
+"1188","doc162","e.",2,0.968981720843447
+"1190","doc162","de drukte van de klas gaat niet goed met sommige managers",2,0.968981720843447
+"1201","doc163","b. opdracht iets duidelijker zodat je weet wat het bedrijf van je wilt weten",3,0.781304645357957
+"1216","doc164","c. betere organisatie binnen de unit",2,0.721583395792224
+"1222","doc165","b. concreter informatie geven over wat er van ons verwacht wordt.",3,0.95453137585268
+"1235","doc166","a. heel gezellig!",2,0.914866033096429
+"1240","doc167","b. mag duidelijker",3,0.914860867244431
+"1244","doc168","a. meer kunst|d.",2,0.940724187219236
+"1249","doc168","stilte ruimte's",2,0.940724187219236
+"1251","doc169","b. mag allemaal duidelijker",3,0.940719880351346
+"1256","doc17","f.",1,0.963121402571099
+"1258","doc17","een overzicht maken met wat de opdrachten per week zijn die je moet doen",1,0.963121402571099
+"1272","doc170","e.",3,0.985316446844345
+"1274","doc170","de docent onderzoek is niet duidelijk.",3,0.985316446844345
+"1281","doc170","niemand weet wat je moet doen en hij kan gewoon geen les geven.",3,0.985316446844345
+"1295","doc170","volgende keer hem niet als docent gebruiken hiervoor.",3,0.985316446844345
+"1304","doc171","a. de sfeer binnen onze business unit is heel erg goed.|e.",2,0.988712766369033
+"1317","doc171","ik ben zeer tevreden over onze coach, bedrijfskundige en de directeur.",2,0.988712766369033
+"1330","doc171","ik ben zeer ontevreden over de onderzoeker",2,0.988712766369033
+"1337","doc172","b.",3,0.976461535296775
+"1339","doc172","de onderzoeksdocent weet niet wat hij aan het doen is.|e.",3,0.976461535296775
+"1350","doc172","ik ben over alle docenten tevreden behalve de onderzoeks docent",3,0.976461535296775
+"1360","doc173","e.",3,0.94072173610838
+"1362","doc173","vak onderzoek is mij onduidelijk",3,0.94072173610838
+"1367","doc174","e.",3,0.985315626638371
+"1369","doc174","ik ben niet tevreden over de docent van onderzoek, henk.",3,0.985315626638371
+"1381","doc174","het is vaak onduidelijk en hij blijft lang hangen in een onderwerp en dat vind ik zonde van de tijd",3,0.985315626638371
+"1401","doc175","e.",3,0.954531101417638
+"1403","doc175","het is onduidelijk wat de bedoeling is met het vak onderzoek",3,0.954531101417638
+"1414","doc176","b. duidelijkere richting naar het eindproduct|e.",3,0.963121005579483
+"1422","doc176","onderzoek is onduidelijk",3,0.963121005579483
+"1425","doc177","b. bij onderzoek meer info veel is onduidelijk",3,0.94072173610838
+"1434","doc178","a. de sfeer is erg goed in de werkgroep|c.",2,0.978994873526347
+"1444","doc178","de samenwerking gaat tot nu toe erg goed.",2,0.978994873526347
+"1453","doc179","e.",3,0.914870855263064
+"1455","doc179","mag wat meer ondersteuning",3,0.914870855263064
+"1459","doc18","c. betere afspraken en taakverdeling",3,0.940724187217499
+"1464","doc180","c. meer verschillende groepjes werken, je werkt nu bijna altijd met dezelfde mensen.",1,0.989328962765781
+"1479","doc180","zo leer je de andere ook niet kennen.|d.",1,0.989328962765781
+"1488","doc180","meer lokalen als dat mogelijk is, het klooster is geen fijne werkplek.",1,0.989328962765781
+"1502","doc180","vooral met hoorcollege niet.|f.",1,0.989328962765781
+"1507","doc180","meer informatie i.p.v.",1,0.989328962765781
+"1510","doc180","al*",1,0.989328962765781
+"1512","doc181","b. duidelijk maken waarom je welke vakken hebt/ sommige dingen komen dubbelop over|d.",2,0.986342797257667
+"1527","doc181","meer ruimtes om aan groepsprojecten te werken in tussenuren",2,0.986342797257667
+"1536","doc182","b.",3,0.968978490824379
+"1538","doc182","ik vind de opdrachten en het doel van het project nog steeds wat vaag.",3,0.968978490824379
+"1553","doc183","e.",1,0.978995216690753
+"1555","doc183","naar mijn mening zijn een tweetal leraren zodanig vaag en onduidelijk dat ik geen idee heb wat ik in sommige lessen aan het doen ben.",1,0.978995216690753
+"1581","doc184","b. de opdrachten zijn soms nog vaag, concretere uitleg en duidelijker",1,0.968979809591257
+"1594","doc185","b.",3,0.9893291119344
+"1596","doc185","het is voor mij en mijn groepje nog vaak onduidelijk wat er precies van ons verwacht wordt en wat we moeten doen, vooral bij onderzoek is dit het geval.|e.",3,0.9893291119344
+"1627","doc185","ik heb vaak het idee dat docenten onderling niet helemaal op 1 lijn zitten over wat er moet geb*",3,0.9893291119344
+"1647","doc186","b.",1,0.963121319731588
+"1649","doc186","de opdracht eerst toelichten en uitleggen door docenten",1,0.963121319731588
+"1657","doc187","b. opdracht eerst gezamenlijk toelichten en uitleggen",1,0.963121809933568
+"1665","doc188","d.",1,0.914870855263064
+"1667","doc188","werkplek is lawaaierig",1,0.914870855263064
+"1670","doc189","b. duidelijkere info over wat er precies moet gebeuren en hoe dit moet",3,0.954529484986894
+"1684","doc19","f.",1,0.914863864168248
+"1686","doc19","overzicht werkzaamheden",1,0.914863864168248
+"1688","doc190","e.",2,0.992576244956068
+"1690","doc190","niet elke manager heeft toegevoegde waarde.",2,0.992576244956068
+"1697","doc190","sommige managers besteden eerst anderhalf uur aan een voorstel ronde terwijl wij elkaar al lang kennen.",2,0.992576244956068
+"1714","doc190","logisch dat de manager ons nog moet leren kennen maar doe dat dan kort en bondig i.p.v. vragen naar all*",2,0.992576244956068
+"1735","doc191","a. leuke sfeer!|b. moet duidelijker|d.",3,0.987235343887512
+"1743","doc191","meer vrijheid om te kiezen waar je wilt zitten|e.",3,0.987235343887512
+"1753","doc191","onduidelijk, kan beter gecommuniceerd worden naar de groep toe|f.",3,0.987235343887512
+"1764","doc191","leuk afwisselend",3,0.987235343887512
+"1766","doc192","a. leuke sfeer binnen ons team!|b. kan duidelijker|d.",3,0.657445713454317
+"1777","doc192","meer vrijheid|e.",3,0.657445713454317
+"1780","doc192","onduidelijk en niet goed voorbereid|f.",3,0.657445713454317
+"1786","doc192","afwisselende opdrachten dat is leuk!",3,0.657445713454317
+"1792","doc193","b. wat duidelijker uitgelegde opdrachten.|e.",1,0.679259795389701
+"1799","doc193","duidelijke rolverdeling binnen de business unit wie wat moet doen",1,0.679259795389701
+"1809","doc194","c. de samenwerking verloopt goed|f.",2,0.963121953376625
+"1815","doc194","de werkzaamheden zijn interassant",2,0.963121953376625
+"1819","doc195","b. constant wachten op een onderdeeltje uitleg voordat je door kan met de challenges is echt vervelend.|d.",2,0.989329346003088
+"1838","doc195","misschien ook buiten de klaslokalen werken.",2,0.989329346003088
+"1845","doc195","nu zit je constant stil in het lokaal.",2,0.989329346003088
+"1854","doc195","daar word je loom van.",2,0.989329346003088
+"1860","doc196","b. de opdrachten mogen duidelijker uitgelegd worden",1,0.954529528973386
+"1868","doc197","e.",2,0.86571610687895
+"1870","doc197","meer voorbereiding, aangezien het managementteam zelf niet duidelijk weet wat we moeten doen.",2,0.86571610687895
+"1885","doc197","dit is erg verwarrend voor ons.",2,0.86571610687895
+"1892","doc198","b.",1,0.5268794060464
+"1894","doc198","ik vind dat de opdrachten iets duidelijker geformuleerd mogen worden.",1,0.5268794060464
+"1905","doc199","b. nog steeds niet helemaal duidelijk wat en hoe",3,0.940718809265869
+"1915","doc2","b. duidelijker maken hoe je dit tot een groot verslag kan maken",1,0.963121897948405
+"1928","doc20","b. alle informatie die wordt gegeven loop allemaal wel door elkaar.",3,0.987235715038192
+"1941","doc20","het is niet altijd duidelijk wat er nou precies gedaan moet worden.",3,0.987235715038192
+"1954","doc20","dit mag wel duidelijker aangegeven worden.",3,0.987235715038192
+"1961","doc200","b. mocht duidelijker, vooral vaag in het begin",3,0.963119418658335
+"1971","doc201","b. betere uitleg bij onderzoek over de challenges",3,0.692770050010897
+"1980","doc202","e.",1,0.717134149242252
+"1982","doc202","niet alle docenten zijn even duidelijk over wat we moeten doen.",1,0.717134149242252
+"1994","doc203","a. een centraler werkwijze zou fijn zijn",2,0.940721886039587
+"2002","doc204","b.",3,0.785307800384787
+"2004","doc204","ik vind soms de opdrachten onduidelijk en ik vind t dan onduidelijk wat er nou echt gedaan moet worden.",3,0.785307800384787
+"2024","doc205","b. vind het jammer dat er voor alles betaald moet worden, denk hierbij aan taalcursus, en edubook",3,0.97323563794176
+"2044","doc206","f.",1,0.981036106249297
+"2046","doc206","af en toe wat meer dagen tussen de challenges, bijvoorbeeld een weekend er tussen zou wel eens prettig zijn.",1,0.981036106249297
+"2067","doc207","e.",2,0.832228645322441
+"2069","doc207","ik vind het erg mooi dat de directrice zo betrokken is met onze opleiding",2,0.832228645322441
+"2083","doc208","c. opdracht wordt goed opgedeeld.",2,0.94072130379958
+"2089","doc209","f.",3,0.914865212350552
+"2091","doc209","onduidelijke uitleg",3,0.914865212350552
+"2093","doc21","b.",1,0.98103509117584
+"2095","doc21","ik vind het een beetje chaos met alle challenges die je krijgt, misschien is het handig als daar iets meer aandacht aan wordt besteed",1,0.98103509117584
+"2120","doc210","b. leg iets meer uit, we worden in het diepe gegooid.",2,0.989329348623584
+"2134","doc210","de helft heeft niet goed in de gaten wat er moet gebeuren.|d.",2,0.989329348623584
+"2147","doc210","probeer meer tijd in de verschillende onderdelen te besteden.",2,0.989329348623584
+"2157","doc210","het gaat nu van onderwerp naar onderwerp.",2,0.989329348623584
+"2165","doc210","het is heel verwarrend en vervelen*",2,0.989329348623584
+"2172","doc211","f.",1,0.986343159213137
+"2174","doc211","de opdrachten van u.r. business kosten soms veel tijd.",1,0.986343159213137
+"2184","doc211","en dan is de deadline 3 dagen later, en dat is wel eens kort dag om het af te hebben.",1,0.986343159213137
+"2206","doc212","b. een duidelijker geheel|d.",2,0.786715370110687
+"2212","doc212","lokalen in het albertinum zijn te klein en je hebt niet veel mogelijkheid om buiten het lokaal te studeren",2,0.786715370110687
+"2231","doc213","b. sommige challenges mogen duidelijker.",1,0.954528811895239
+"2238","doc214","b. zorgen dat de opdrachten tastbaar worden, want de eerste weken is het nog heel vaag.|c. meer handvaten geven, omdat je direct losgelaten wordt.",1,0.591219691046507
+"2266","doc215","b. informatie is goed, docent onderzoek is minder.|e.",3,0.730707694962059
+"2277","doc215","rol directeur onduidelijk",3,0.730707694962059
+"2280","doc216","b. iets meer uitleg per challenge|e.",1,0.973233524683959
+"2288","doc216","duidelijkeheid, niet te gehaast iets willen uitleggen",1,0.973233524683959
+"2296","doc217","b. de opdrachten die we moeten maken zijn niet bij elke vakken even duidelijk",1,0.517376495492987
+"2311","doc218","e.",2,0.91487085520257
+"2313","doc218","de directeur anders",2,0.91487085520257
+"2316","doc219","b. soms wat chaotisch",1,0.914870855259959
+"2321","doc22","c. meer duidelijkheid over de verschillende challenges met de managers",1,0.592831912349943
+"2331","doc220","b. er wordt al 3 weken gezegd apa gaat uitgelegd worden.",3,0.759149365327459
+"2344","doc220","nu worden we beoordeelt op iets wat nog niet uitgelegd is|d.",3,0.759149365327459
+"2356","doc220","in een vol warm klaslokaal werken 5 uur achter elkaar is niet bevorderlijk voor de concentratie.",3,0.759149365327459
+"2373","doc220","de school heeft goeie werkplekken laat *",3,0.759149365327459
+"2380","doc221","d. rustige werkplekken (top)|e.",2,0.968982718568624
+"2387","doc221","goede instructies (top)",2,0.968982718568624
+"2392","doc222","e.",3,0.963122710021984
+"2394","doc222","minder praten en meer zelf doen vooral bij het vak onderzoek",3,0.963122710021984
+"2405","doc223","b. bij onderzoek mag meer informatie gegeven worden",3,0.95453157467406
+"2414","doc224","b. informatie duidelijker weergeven op onderwijsonline.",1,0.954529033182375
+"2422","doc225","d.",3,0.963120211117556
+"2424","doc225","er zijn heel weinig oplaadpunten voor elektronische apparaten",3,0.963120211117556
+"2432","doc226","d.",1,0.64082625052119
+"2434","doc226","geen stopcontacten aanwezig in de lokalen waar we zitten om met je laptop te werken",1,0.64082625052119
+"2449","doc227","b. alles via 1 platform, nu nog veel verspreid en dus veel onduidelijkheid",3,0.963122962509421
+"2464","doc228","d.",1,0.954530207804442
+"2466","doc228","meer stopcontacten ivm het werken met laptops",1,0.954530207804442
+"2473","doc229","e.",1,0.954530233660781
+"2475","doc229","soms misschien specifieker zijn in opdrachtgeving",1,0.954530233660781
+"2481","doc23","d.",3,0.525638528865334
+"2483","doc23","misschien moet de klas wat meer 'bedrijf ingericht' zijn",3,0.525638528865334
+"2494","doc24","b. onderwijs online is aardig onoverzichtelijk. (inleverdatums zijn vaag en veranderen vaak.) ook is het handiger om alles in 1 progamma te zetten (rooster, inschrijven voor tentamens en huiswerk en dergelijke.)",3,0.988712649859735
+"2534","doc25","c. de samenwerking is matig!|d.",2,0.986343740019281
+"2540","doc25","de werkplekken zijn gevuld, maar ik zie nog niet van iedereen een zo goed mogelijke inzet!|f.",2,0.986343740019281
+"2558","doc25","de werkzaamheden in het bu zijn erg interessant om uit te voeren!",2,0.986343740019281
+"2571","doc26","b. het mag wat duidelijker",3,0.914860867244431
+"2577","doc27","e.",3,0.541082890947391
+"2579","doc27","het zou fijn zijn als alles wat duidelijker en/of iets eerder wordt aangegeven",3,0.541082890947391
+"2592","doc28","b.",3,0.954529281965137
+"2594","doc28","de deadlines worden nogal eens niet duidelijk aangegeven",3,0.954529281965137
+"2602","doc29","e.",2,0.569895382803264
+"2604","doc29","challenges eerder in de week duidelijk maken",2,0.569895382803264
+"2611","doc3","b. duidelijke deadlines bespreken",1,0.94072165353776
+"2616","doc30","b. duidelijke uitleg wat het einddoel is",3,0.576394772052456
+"2624","doc31","b. soms wat onduidelijk qua deadline.",1,0.954530410542853
+"2632","doc32","a. de sfeer is prima|b.",2,0.682752362805684
+"2639","doc32","het is voor mij nog onduidelijk wat er precies van mij verwacht word, ook is het niet duidelijk wat het doel is van het project.",2,0.682752362805684
+"2666","doc32","doordat we werken met challenges zie ik het niet als een project maar eerder als losse opdrachten.|c.*",2,0.682752362805684
+"2684","doc33","f.",1,0.954524078161757
+"2686","doc33","ik vind het nog een beetje onduidelijk wat we moeten doen",1,0.954524078161757
+"2697","doc34","a. de sfeer in onze klas is echt erg goed.|e.",3,0.509486770133702
+"2709","doc34","het was voor mij onduidelijk wat er precies van mij verwacht werd aan het begin.",3,0.509486770133702
+"2725","doc35","c. er wordt goed samengewerkt",2,0.914870855262976
+"2730","doc36","b. meer duidelijkheid over wat en wanneer iets moet gebeuren",3,0.940717000650191
+"2741","doc37","b.",3,0.82225815302606
+"2743","doc37","het was de eerste twee weken niet heel duidelijk wat je moest doen met de challenges en de eindopdracht",3,0.82225815302606
+"2762","doc38","c. de samenwerking binnen ons team verloopt goed.",2,0.991620213774339
+"2771","doc38","iedereen is bereid elkaar te ondersteunen waar het nodig is en we kunnen het werk goed verdelen.",2,0.991620213774339
+"2789","doc38","dit bevalt mij ontzettend goed.|d.",2,0.991620213774339
+"2795","doc38","de studiehokjes zijn heel erg fijn om te kunnen werken met het team.",2,0.991620213774339
+"2809","doc39","b. bij een van de projecten leggen de leraren steeds het tegenovergestelde uit",2,0.585548275155592
+"2823","doc4","d.",2,0.963122166585948
+"2825","doc4","e.v.t. een 2e lokaal om meer rust te creëren",2,0.963122166585948
+"2834","doc40","d.",1,0.914870855027702
+"2836","doc40","meer wandcontactdozen in de lokalen",1,0.914870855027702
+"2841","doc41","d.",1,0.96312242986927
+"2843","doc41","in sommige lokalen wat meer stopcontacten om laptops op te laden.",1,0.96312242986927
+"2855","doc42","b. onderwijsonline is nog vaag|d.",1,0.940722741146111
+"2862","doc42","airco",1,0.940722741146111
+"2863","doc43","d.",2,0.963121214767499
+"2865","doc43","vaste tijden om aan het project te werken. (projecturen)",2,0.963121214767499
+"2877","doc44","d.",1,0.849020805125265
+"2879","doc44","meer projectwerkplekken",1,0.849020805125265
+"2881","doc45","d.",3,0.642505247184696
+"2883","doc45","klooster op maandag is ruk",3,0.642505247184696
+"2888","doc46","b. laat iemand van de dru het project inluiden.",3,0.978994808860303
+"2899","doc46","zodat je ook echt het gevoel hebt dat je het voor iemand doet.",3,0.978994808860303
+"2913","doc47","b. duidelijkheid over welke opdrachten en hoe je die moet doen",1,0.617470496793694
+"2925","doc48","c. misschien moet de docent iets better monitoren/vragen hoe het gaat",2,0.841198294735538
+"2936","doc49","d.",1,0.954528870639792
+"2938","doc49","te weinig stopcontacten in verschillende lokalen",1,0.954528870639792
+"2944","doc5","f.",1,0.940719992669983
+"2946","doc5","de opdracht nog duidelijker formuleren.",1,0.940719992669983
+"2952","doc50","d.",1,0.642232396293787
+"2954","doc50","weinig stopcontacten bij automotive gebouw",1,0.642232396293787
+"2959","doc51","b. een agenda met wat wanneer moet|d.",1,0.940718522358962
+"2968","doc51","stopcontacten",1,0.940718522358962
+"2969","doc52","c. eigen groepen creëren zou prettiger zijn.",3,0.976461770536412
+"2977","doc52","nu weet ik gewoon niet wat ik aan ze heb.",3,0.976461770536412
+"2988","doc52","ongemotiveerd enz.",3,0.976461770536412
+"2990","doc53","d.",3,0.380972264870279
+"2992","doc53","weinig ruimte om te werken in het klooster, lokalen zijn ook veel te warm.",3,0.380972264870279
+"3008","doc54","d.",3,0.954530585533919
+"3010","doc54","klooster gebouw echt een tegenvaller",3,0.954530585533919
+"3015","doc55","d.",1,0.940724187219236
+"3017","doc55","groot tekort aan stopcontacten",1,0.940724187219236
+"3021","doc56","b. meer duidelijkheid over de planning en wat het uiteindelijke doel is.",3,0.954530080092384
+"3035","doc57","b. meer duidelijkheid over wat de opdrachten zijn",1,0.914864120028859
+"3044","doc58","d.",2,0.853423640018852
+"3046","doc58","algemene studieruimte inrichten, geen studielokalen die gereserveerd moeten worden",2,0.853423640018852
+"3056","doc59","b. iets meer uitleg",3,0.848995875702608
+"3061","doc6","d.",1,0.914870855027702
+"3063","doc6","in de lokalen iets meer stopcontacten",1,0.914870855027702
+"3069","doc60","d.",1,0.849020805125265
+"3071","doc60","meer stopcontacten",1,0.849020805125265
+"3073","doc61","b. kan soms iets duidelijker",1,0.914866962203706
+"3079","doc62","b. duidelijkheid over verjaardagen van medewerkers.",1,0.940722501639754
+"3087","doc63","c. wie is de klassenverantwoordelijke",2,0.849020805125265
+"3092","doc64","b. duidelijkere uitleg wat we moeten doen bij challenges|d.",1,0.981034145418019
+"3103","doc64","meer stopcontacten en airco|e.",1,0.981034145418019
+"3108","doc64","sommige docenten moeten duidelijker zijn",1,0.981034145418019
+"3113","doc65","f.",2,0.614382627642031
+"3115","doc65","soms beetje onduidelijk dat overal een andere site voor is.",2,0.614382627642031
+"3126","doc65","een grote site waar alles te vinden is zou handiger zijn",2,0.614382627642031
+"3137","doc66","b. meer informatie over wat er van ons verwacht wordt bij de challlenges.",3,0.988018497355624
+"3152","doc66","opdrachten zijn vaak onduidelijk.",3,0.988018497355624
+"3157","doc66","meer duidelijkheid over wanneer we het moeten inleveren, wat er allemaal in moet staan (layout) en informatie over de challenge zelf zou fijn zijn.",3,0.988018497355624
+"3185","doc67","c. de overloop van samenwerken op het hbo en het zelfstandig werken op de middelbare school is best een stap.",3,0.651473047049136
+"3206","doc67","samenwerken is soms goed, maar soms ook niet.",3,0.651473047049136
+"3216","doc67","samenwerken met mensen waarmee je weinig tot niks hebt is lastig.",3,0.651473047049136
+"3228","doc67","leuke//goede groepjes die je zel*",3,0.651473047049136
+"3234","doc68","e.",1,0.940720794264097
+"3236","doc68","feedback op de gemaakt challenges",1,0.940720794264097
+"3241","doc69","b. de opdrachten zijn langdradig, vaag en voegen naar mijn mening weinig toe aan de studie.",1,0.976462056991972
+"3260","doc7","b. sommige opdrachten mogen wat beter beschreven worden, bijvoorbeeld de opdracht bedrijfskunde van week 2",1,0.9810360080315
+"3277","doc70","d.",3,0.954531759436632
+"3279","doc70","klooster is niet echt een leuke plek",3,0.954531759436632
+"3286","doc71","e.",1,0.849020805125265
+"3288","doc71","meer feedback!",1,0.849020805125265
+"3291","doc72","b. inlevermogelijkheden",2,0.849020805125265
+"3294","doc73","b. opdrachten onduidelijk",1,0.914859422942172
+"3298","doc74","a. in de klas is goeie sfeer|b.",3,0.981032919969178
+"3307","doc74","mag duidelijker|c. niet iedereen is gemotiveerd|d.",3,0.981032919969178
+"3314","doc74","te weinig|e.",3,0.981032919969178
+"3317","doc74","onduidelijk|f.",3,0.981032919969178
+"3319","doc74","onduidelijk",3,0.981032919969178
+"3320","doc75","c. de samenwerking kan nog wat beter.",2,0.494210592539762
+"3328","doc75","er word nu te zelfstandig gewerkt.",2,0.494210592539762
+"3335","doc76","d.",3,0.745626830166574
+"3337","doc76","in klooster is weinig plek om in een tussenuur te werken",3,0.745626830166574
+"3348","doc77","d.",2,0.600418901558884
+"3350","doc77","albertinum gebouw is minder fijn",2,0.600418901558884
+"3355","doc78","d.",1,0.940718282747298
+"3357","doc78","grotere ruimtes om in te werken",1,0.940718282747298
+"3363","doc79","a. goede sfeer, goed werktempo|b.",2,0.978995502803971
+"3371","doc79","duidelijk|c. prima|d.",2,0.978995502803971
+"3374","doc79","prima|e.",2,0.978995502803971
+"3376","doc79","duidelijk|f.",2,0.978995502803971
+"3378","doc79","prima",2,0.978995502803971
+"3379","doc8","b. de challenge van vorige week van bedrijfskunde had veel beter uitgelegd moeten worden.",1,0.973234196447703
+"3395","doc80","d.",1,0.940718430842918
+"3397","doc80","te weinig stopcontacten in de lokalen",1,0.940718430842918
+"3403","doc81","d.",2,0.976462533636322
+"3405","doc81","meer ruimte, lokaal is erg krap voor een hele klas om in groepen te werken",2,0.976462533636322
+"3421","doc82","d.",3,0.605962485759672
+"3423","doc82","minder lessen in het klooster",3,0.605962485759672
+"3428","doc83","a. de klas is veelal afwachtend en terughoudend waardoor ik vaak het gevoel heb het voortouw te moeten nemen.|b.",1,0.991244065330917
+"3449","doc83","het is soms lastig het overzicht te zien/ houden in alles wat er naast de lessen nog van je gevraagd wordt.|c. mijn team is sterk met zn 3e, *",1,0.991244065330917
+"3479","doc84","b. soms onduidelijk wat je moet doen",1,0.914862266077277
+"3487","doc85","a. we hebben een goede sfeer in de klas|c. we hebben een prima samenwerking in ons groepje",2,0.968982075003617
+"3505","doc86","b. alles duidelijk op een pagina zetten.",3,0.978994986166543
+"3514","doc86","niet te zweverig zoals challanges, noem ze gewoon zo als ze zijn: opdrachten.",3,0.978994986166543
+"3530","doc87","d.",2,0.963119194307792
+"3532","doc87","fijn dat er in de school zoveel plaatsen zijn om te werken.",2,0.963119194307792
+"3545","doc88","b. we krijgen erg veel informatie in deze begin weken, hierdoor raak ik persoonlijk soms de draad kwijt.",3,0.843648053237669
+"3566","doc89","d.",3,0.954529541138361
+"3568","doc89","we zitten altijd in een druk klaslokaal met ze allen",3,0.954529541138361
+"3578","doc9","b. duidelijkere uitleg bij sommige challenges wat er precies gebeurt moet worden.|c.",2,0.987235796065775
+"3591","doc9","samenwerking binnen ons team gaat goed, in de unit zie ik tot op heden ook nog geen problemen.",2,0.987235796065775
+"3611","doc90","b. soms wat beter informeren over de opdrachten en het inleveren.",3,0.595730285751374
+"3624","doc91","b. het inleveren was onduidelijk.",3,0.914865181072021
+"3631","doc92","b.",1,0.989881970966128
+"3633","doc92","het is vaak nog vrij onduidelijk en je moet er zelf achter zien te komen soms tot na deadline.|e.",1,0.989881970966128
+"3653","doc92","een aantal van het management team kan ik niet helemaal volgen maar ik weet ook niet wat een aantal van mij verwachten.|f.",1,0.989881970966128
+"3676","doc92","de werkzaamheden waren pas ech*",1,0.989881970966128
+"3682","doc93","b. af en toe was het onduidelijk wat er van mij verwacht werd|e.",1,0.989881839491887
+"3697","doc93","een aantal mensen uit het managementteam waren onduidelijk over de projecten|f.",1,0.989881839491887
+"3709","doc93","op dit moment kan ik prima aan de projecten werken, zowel op school als thuis.",1,0.989881839491887
+"3726","doc93","het enige nadeel is dat ik pas*",1,0.989881839491887
+"3734","doc94","a. leuke klas|c. goede groep|d.",2,0.434202635703732
+"3740","doc94","genoeg werkplekken beschikbaar",2,0.434202635703732
+"3743","doc95","b. meer duidelijkheid rondom opdrachten",1,0.940721277181529
+"3749","doc96","b. soms betere uitleg.",3,0.576398694554393
+"3755","doc97","b. mag wel iets duidelijker|c. nog iets duidelijkere afspraken",3,0.963118436375538
+"3765","doc98","a.",3,0.842376967917238
+"3767","doc98","ik heb geluk dat ik in een goedwerkende team zit.|b. er word veel en duidelijk uitgelegd over han queut.",3,0.842376967917238
+"3788","doc98","superfijn",3,0.842376967917238
+"3789","doc99","b. minder over ur business en meer info over parenco|f.",3,0.976461211992734
+"3801","doc99","iets meer uitdaging mag wel",3,0.976461211992734

@@ -143,6 +143,8 @@ ggplotly(p2, width = 900)
 ```
 
 ### Plot sentiment
+
+Dubbelklik op een kleur in de legenda om een selectie te zien van een klas.
 ```{r}
 sentDF$sentiment <- round(sentDF$sentiment, 2)
 

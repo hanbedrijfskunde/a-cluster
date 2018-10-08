@@ -115,5 +115,10 @@ doc_top_terms %>%
   coord_flip()
 ```
 
+### Maak bestand met topics zinnen
+
+```{r}
+topicDF <- merge(annDF, doc_classifications, all.y = TRUE)
+```
 
 

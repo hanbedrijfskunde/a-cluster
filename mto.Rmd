@@ -1,0 +1,125 @@
+---
+title: "MTO"
+output: html_notebook
+---
+
+### Laden benodigde libraties
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+library(tidyverse)
+library(readxl)
+library(udpipe)
+library(wordcloud2)
+library(tidytext)
+library(tm)
+library(quanteda)
+library(topicmodels)
+library(stopwords)
+library(plotly)
+```
+
+### Data inlezen
+
+```{r}
+rawData <- read_excel("mto.xlsx", sheet = "Resultaten") %>% filter( DTM_BGN != "NA")
+str(rawData)
+head(rawData)
+```
+
+### Tekst annoteren
+```{r}
+udmodel <- udpipe_download_model(language = "dutch", overwrite = FALSE)
+udmodel_dutch <- udpipe_load_model(file = udmodel$file_model)
+fltDF <- na.omit(tolower(rawData[[24]]))
+annData <- udpipe_annotate(udmodel_dutch, x = fltDF)
+annDF <- as.data.frame(annData)
+str(annDF)
+head(annDF)
+```
+
+### Data filteren en wordcloud bouwen
+```{r}
+annDFflt <- filter(annDF, upos %in% c("ADJ", "NOUN"))
+by_upos <- group_by(annDFflt, lemma)
+wordFreq <- summarise(by_upos,
+  freq = n()
+)
+## Verwijder woorden met een neutrale betekenis en toon alleen de woorden die vaker dan 10 keer voorkomen.
+wordFreq <- filter(wordFreq, !(lemma %in% c(letters, "zien", "beter", "kan", "staat", "staan", "komen", "moet")), freq > 3)
+wordcloud2(data = wordFreq, size = 1)
+```
+
+### Topics bepalen
+
+```{r}
+stop_words <- data.frame(word = c(stopwords(language = "nl", source = "snowball"), letters, "wij", "we"))
+
+corpusDF <- unique(select(annDF, doc_id, sentence))
+
+doc_words <- corpusDF %>%
+  unnest_tokens(word, sentence) %>%
+  count(doc_id, word, sort = TRUE) %>%
+  ungroup() %>%
+  anti_join(stop_words)
+
+total_words <- doc_words %>% 
+  group_by(doc_id) %>% 
+  summarize(total = sum(n))
+
+doc_words <- left_join(doc_words, total_words)
+
+doc_words
+
+doc_term_mat <- doc_words %>% cast_dtm(doc_id, word, n)
+doc_lda <- LDA(doc_term_mat, k = 3, control = list(seed = 1234))
+doc_lda
+
+doc_topics <- tidy(doc_lda, matrix = "beta")
+doc_topics
+
+top_documents <- tidy(doc_lda, matrix = "gamma")
+top_documents
+
+doc_classifications <- top_documents %>%
+  group_by(document) %>%
+  top_n(1, gamma) %>%
+  ungroup()
+
+doc_classifications
+table(doc_classifications$topic)
+```
+
+Met topic modeling kan gekeken worden of de reacties in de open vraag gegroepeerd kunnen worden naar thema. In dit geval hebben we de opdracht gegeven de antwoorden in drie groepen op te delen zodanig dat ze zoveel mogelijk van elkaar verschillen.
+
+Hiervoor wordt per woord/topic-combinatie een parameter berekend, de beta. Hoe hoger de beta des te meer associatie het woord met een topic heeft. Door per woord te filteren op de hoogste beta, ontstaan drie woordgroepen.
+
+Tevens kan per document worden berekend met welke topic het de sterkste relatie heeft (gamma). Zo kan worden bekeken hoeveel documenten er per topic zijn.
+
+Uiteindelijk kunnen per topic histogrammen worden gebouwd en de verdeling qua worden bekeken. Dit geeft een inzicht in het thema per topic. In dit geval lijken de topics te gaan over resp.: opdrachten, samenwerking en informatie. 
+
+```{r}
+doc_top_terms <- doc_topics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+p1 <- doc_top_terms %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  theme(legend.position="none") +
+  coord_flip()
+ggplotly(p1, width = 900)
+```
+
+### Schrijf data weg
+
+De data kan [hier](https://docs.google.com/spreadsheets/d/1G93sPeehgbFEEh51hAW_iUtzIwWarnhFDXYg2HKy9Yk/copy?) worden bekeken en berwerkt.
+```{r}
+topicDF <- merge(annDF[, c("doc_id", "sentence")], doc_classifications, by.x = "doc_id", by.y = "document", all.y = TRUE) %>% unique
+
+write.csv(topicDF, "topics.csv")
+```
+
